@@ -1,5 +1,7 @@
 <img src="https://upload-cdn.turka.cn/turka-cn-data/IMG_20230204_114715.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
 
+<p align="right"><i>——摄于2023年初OUFC：醒狮夺魁</i></p>
+
 <h2 align="center">✨ 你好哇，这里是涂卡！ 😺</h2>
 
 <a href="https://turka.cn">
