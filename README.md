@@ -1,6 +1,8 @@
-<img src="https://upload-cdn.turka.cn/turka-cn-data/IMG_20230204_114715.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
+<a href="https://www.bilibili.com/video/BV1Bk4y1W7fY">
+    <img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/%E8%8A%B1%E9%B8%A3%E6%B6%82%E5%8D%A1.JPG?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
+</a>
 
-<p align="right"><i>——摄于2023年初OUFC：醒狮夺魁</i></p>
+<p align="right"><i>——摄于05.27海天公园小聚，花呜（左）涂卡本兽（右）</i></p>
 
 <h2 align="center">✨ 你好哇，这里是涂卡！ 😺</h2>
 
@@ -27,5 +29,6 @@
 
 #### 最近
 - ✂ 做手工哇，因为我现在成为了`手工王国`的国王！（什）
+- 去时光家
 
 <p align="right"><b>——（｡ò ∀ ó｡）</b></p>
