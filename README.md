@@ -1,4 +1,4 @@
-<a href="https://www.bilibili.com/video/BV1Bk4y1W7fY">
+<a href="https://www.bilibili.com/video/BV1Bk4y1W7fY" target="_blank">
     <img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/%E8%8A%B1%E9%B8%A3%E6%B6%82%E5%8D%A1.JPG?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
 </a>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Bilibili-涂卡--Turka-fc8bab?style=for-the-badge" />
 </a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=turka-cn&bg_color=7ccefe&title_color=ffffff&text_color=b0e2fe&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=turka-cn&hide_title=true&hide_border=true&langs_count=6&card_width=280" />
 
 > 我叫“涂卡”（Turka），是一只从邮箱突变成的小猫，在一个**充满快乐的小镇**里跟猫猫时光一起生活和探索，平时是一个充满魔法的邮递员小猫~
 > 而现实里，只是个平平无奇的普通人啦（偏自由一些的），但跟猫猫时光有一个大大的世界在里面！
