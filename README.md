@@ -1,8 +1,7 @@
-<a href="https://www.bilibili.com/video/BV1Bk4y1W7fY" target="_blank">
-    <img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/%E8%8A%B1%E9%B8%A3%E6%B6%82%E5%8D%A1.JPG?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
-</a>
+<img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/20230617203957.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
 
-<p align="right"><i>——摄于05.27海天公园小聚，花呜（左）涂卡本兽（右）</i></p>
+<p align="right"><i>——摄于06.17美盈时代公馆小聚，<b>涂卡本兽</b>（左）伊恩（右）</i></p>
+<p align="right">📸：<a href="https://space.bilibili.com/470985734" target="_blank">Chenze晨泽是只小狼</a></p>
 
 <h2 align="center">✨ 你好哇，这里是涂卡！ 😺</h2>
 
