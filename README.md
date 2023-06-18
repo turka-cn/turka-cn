@@ -1,33 +1,7 @@
-<img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/20230617203957.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
+对不起，不能再帮你遮风挡雨了。
 
-<p align="right"><i>——摄于06.17美盈时代公馆小聚，<b>涂卡本兽</b>（左）伊恩（右）</i></p>
-<p align="right">📸：<a href="https://space.bilibili.com/470985734" target="_blank">Chenze晨泽是只小狼</a></p>
+虽然想继续遮风挡雨，帮你取取暖的，但我已经累了。
 
-<h2 align="center">✨ 你好哇，这里是涂卡！ 😺</h2>
+以后一个人的路上要保重啊，希望以后能好好地爱自己，能遇到一个更好的陪伴~
 
-<a href="https://turka.cn">
-    <img src="https://img.shields.io/badge/涂卡手账-turka.cn-7ccefe?style=for-the-badge" />
-</a>
-
-<a href="https://space.bilibili.com/179467753">
-    <img src="https://img.shields.io/badge/Bilibili-涂卡--Turka-fc8bab?style=for-the-badge" />
-</a>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=turka-cn&hide_title=true&hide_border=true&langs_count=6&card_width=280" />
-
-> 我叫“涂卡”（Turka），是一只从邮箱突变成的小猫，在一个**充满快乐的小镇**里跟猫猫时光一起生活和探索，平时是一个充满魔法的邮递员小猫~
-> 而现实里，只是个平平无奇的普通人啦（偏自由一些的），但跟猫猫时光有一个大大的世界在里面！
-
-#### About
-
-- 💻 虽然写代码，但也更愿意利用它创造自己喜欢的东西
-- 🥪 喜欢吃吃，尤其是`三明治`，**一口一个世界**！
-- 🎨 会画点小画，虽然画的都是小动物（bushi）
-- 🌌 脑洞大开，跟猫猫时光有一个大大的世界在里面~
-- 🥚 偶尔打蛋仔 ~（小菜蛋一枚）~
-
-#### 最近
-- ✂ 做手工哇，因为我现在成为了`手工王国`的国王！（什）
-- 去时光家
-
-<p align="right"><b>——（｡ò ∀ ó｡）</b></p>
+`2022/3/16-2023/6/18` 全剧终
