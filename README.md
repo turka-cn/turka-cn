@@ -1,4 +1,6 @@
-<img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/20230617203957.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
+<a href="https://www.bilibili.com/video/BV1NP411q7k3" target="_blank">
+    <img style="border-radius: 15px;" src="https://upload-cdn.turka.cn/turka-cn-data/20230617203957.jpg?imageMogr2/rquality/50/crop/1280x720/gravity/center" />
+</a>
 
 <p align="right"><i>——摄于06.17美盈时代公馆小聚，<b>涂卡本兽</b>（左）伊恩（右）</i></p>
 <p align="right">📸：<a href="https://space.bilibili.com/470985734" target="_blank">Chenze晨泽是只小狼</a></p>
